@@ -9,8 +9,8 @@ spec:
   - graph:
       children: []
       implementation: MLFLOW_SERVER
-      modelUri: gs://seldon-models/mlflow/model-a
+      modelUri: gs://seldon-models-dhs/mlflow/model-a
       name: wines-classifier
-    name: wines-classifier
+    name: default
     replicas: 1
 
