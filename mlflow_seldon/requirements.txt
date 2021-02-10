@@ -11,7 +11,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.2
 configparser==4.0.2
-cryptography==3.2
+cryptography==3.3.2
 databricks-cli==0.9.1
 decorator==4.4.1
 defusedxml==0.6.0
